@@ -1,0 +1,6 @@
+{
+  "extends": "./docroot/core/.eslintrc.json",
+  "globals": {
+    "jQuery": true
+  }
+}
