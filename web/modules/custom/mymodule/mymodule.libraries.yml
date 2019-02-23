@@ -1,0 +1,6 @@
+example:
+  js:
+    js/mymodule.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal

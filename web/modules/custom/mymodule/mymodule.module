@@ -1,0 +1,12 @@
+<?php
+/**
+ * @file
+ * Load example js in every page.
+ */
+
+/**
+ * Implements hook_page_attachments().
+ */
+function mymodule_page_attachments(array &$attachments) {
+  $attachments['#attached']['library'][] = 'mymodule/example';
+}
