@@ -27,3 +27,4 @@
 /web/modules/custom/*/js/*.js
 !/web/modules/custom/*/js/*.es6.js
 /web/theme/custom/mytheme/assets/js/
+*.js.map
